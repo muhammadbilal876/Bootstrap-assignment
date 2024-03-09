@@ -1,0 +1,23 @@
+header{
+z-index: 100;
+}
+#hero-section{
+    background-image: url(../architect.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom center;
+}
+#BR-text{
+    padding: 8px 20px;
+    background-color: rgba(0, 0, 0, 0.65);
+}
+#navbar-br{
+letter-spacing: 3px;
+}
+#Projects-section .card{
+    margin-bottom: 16px;
+}
+#About-section img{
+    filter: grayscale(70%);
+}
